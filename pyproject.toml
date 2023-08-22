@@ -25,3 +25,4 @@ addopts = """\
   --cov=algorithms_keeper
   --cov-report=xml
   --cov-report=term-missing
+"""

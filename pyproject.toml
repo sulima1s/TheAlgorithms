@@ -23,3 +23,4 @@ check_untyped_defs = false
 testpaths = "tests"
 addopts = """\
  --cov=algorithms_keeper
+ --cov-report=xml

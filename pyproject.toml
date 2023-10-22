@@ -17,3 +17,4 @@ no_implicit_optional = true
 [[tool.mypy.overrides]]
 module = "tests.data.*"
 disallow_untyped_defs = false
+check_untyped_defs = false

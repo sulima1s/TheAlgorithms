@@ -22,3 +22,5 @@ check_untyped_defs = false
 [tool.ruff]
 select = [
   "A",      # flake8-builtins
+"AIR",    # Airflow
+  "ASYNC",  # flake8-async

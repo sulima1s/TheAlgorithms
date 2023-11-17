@@ -27,3 +27,4 @@ select = [
 "B",      # flake8-bugbear
   "BLE",    # flake8-blind-except
 "C4",     # flake8-comprehensions
+"C90",    # McCabe cyclomatic complexity

@@ -28,3 +28,4 @@ select = [
   "BLE",    # flake8-blind-except
 "C4",     # flake8-comprehensions
 "C90",    # McCabe cyclomatic complexity
+"CPY",    # flake8-copyright

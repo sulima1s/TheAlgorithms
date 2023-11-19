@@ -29,3 +29,4 @@ select = [
 "C4",     # flake8-comprehensions
 "C90",    # McCabe cyclomatic complexity
 "CPY",    # flake8-copyright
+  "DJ",     # flake8-django

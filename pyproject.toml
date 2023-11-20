@@ -30,3 +30,5 @@ select = [
 "C90",    # McCabe cyclomatic complexity
 "CPY",    # flake8-copyright
   "DJ",     # flake8-django
+  "DTZ",    # flake8-datetimez
+  "E",      # pycodestyle

@@ -33,3 +33,4 @@ select = [
   "DTZ",    # flake8-datetimez
   "E",      # pycodestyle
   "EM",     # flake8-errmsg
+"EXE",    # flake8-executable

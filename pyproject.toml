@@ -34,3 +34,5 @@ select = [
   "E",      # pycodestyle
   "EM",     # flake8-errmsg
 "EXE",    # flake8-executable
+ "F",      # Pyflakes
+  "FLY",    # flynt

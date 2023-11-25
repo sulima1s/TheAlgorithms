@@ -36,3 +36,5 @@ select = [
 "EXE",    # flake8-executable
  "F",      # Pyflakes
   "FLY",    # flynt
+ "G",      # flake8-logging-format
+  "I",      # isort

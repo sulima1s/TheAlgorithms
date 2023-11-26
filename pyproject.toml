@@ -38,3 +38,4 @@ select = [
   "FLY",    # flynt
  "G",      # flake8-logging-format
   "I",      # isort
+"ICN",    # flake8-import-conventions

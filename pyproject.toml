@@ -45,3 +45,4 @@ select = [
  "N",      # pep8-naming
   "NPY",    # NumPy-specific rules
  "PD",     # pandas-vet
+  "PERF",   # Perflint

@@ -50,3 +50,5 @@ select = [
   "PIE",    # flake8-pie
 "PL",     # Pylint
   "PT",     # flake8-pytest-style
+ "PTH",    # flake8-use-pathlib
+  "PYI",    # flake8-pyi

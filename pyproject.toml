@@ -52,3 +52,5 @@ select = [
   "PT",     # flake8-pytest-style
  "PTH",    # flake8-use-pathlib
   "PYI",    # flake8-pyi
+ "RSE",    # flake8-raise
+  "RUF",    # Ruff-specific rules

@@ -54,3 +54,5 @@ select = [
   "PYI",    # flake8-pyi
  "RSE",    # flake8-raise
   "RUF",    # Ruff-specific rules
+  "S",      # flake8-bandit
+  "SIM",    # flake8-simplify
